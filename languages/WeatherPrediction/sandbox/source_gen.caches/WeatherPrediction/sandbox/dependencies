@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="WeatherPrediction.sandbox.PredictionListImpl" file="PredictionListImpl.java">
+    <classNode dependClassName="WeatherClasses.structure.WeatherTimedData" />
+    <classNode dependClassName="java.lang.String" />
+    <classNode dependClassName="java.util.Deque" />
+    <classNode dependClassName="java.util.LinkedList" />
+    <classNode dependClassName="jetbrains.mps.internal.collections.runtime.LinkedListSequence" />
+    <classNode extendsClassName="WeatherClasses.structure.PredictionList" />
+  </dependency>
+</dependenciesRoot>
+

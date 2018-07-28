@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <root>
+    <file name="QueriesGenerated.java">
+      <unit at="57,0,72,0" name="main.QueriesGenerated$SNsQ" />
+      <unit at="88,0,108,0" name="main.QueriesGenerated$PVQ" />
+      <unit at="26,0,109,0" name="main.QueriesGenerated" />
+    </file>
+  </root>
+  <root nodeRef="r:1b0f1f92-45b9-4835-bd9b-f0044413abe8(main@generator)/5344032279209501932">
+    <file name="QueriesGenerated.java">
+      <node id="5344032279209502739" at="31,112,32,175" concept="0" />
+      <node id="8056710606584913460" at="40,120,41,191" concept="0" />
+      <scope id="5344032279209502173" at="31,112,32,175" />
+      <scope id="8056710606584910845" at="40,120,41,191" />
+    </file>
+  </root>
+  <root nodeRef="r:1b0f1f92-45b9-4835-bd9b-f0044413abe8(main@generator)/8056710606584144351">
+    <file name="QueriesGenerated.java">
+      <node id="8056710606584876137" at="34,112,35,341" concept="0" />
+      <node id="8056710606584888497" at="37,112,38,343" concept="0" />
+      <scope id="8056710606584874345" at="34,112,35,341" />
+      <scope id="8056710606584886429" at="37,112,38,343" />
+    </file>
+  </root>
+</debug-info>
+

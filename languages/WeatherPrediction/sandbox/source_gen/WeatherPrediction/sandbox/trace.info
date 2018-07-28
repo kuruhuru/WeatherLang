@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123140:jetbrains.mps.baseLanguage.structure.ConstructorDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068580123155:jetbrains.mps.baseLanguage.structure.ExpressionStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068390468200:jetbrains.mps.baseLanguage.structure.FieldDeclaration" />
+  <root nodeRef="r:b557ec5d-4169-4e53-920a-088d65051155(WeatherPrediction.sandbox)/733024125197880679">
+    <file name="PredictionListImpl.java">
+      <node id="733024125197880679" at="12,0,13,0" concept="2" trace="name" />
+      <node id="733024125197880679" at="13,0,14,0" concept="2" trace="input" />
+      <node id="733024125197880679" at="17,31,18,128" concept="1" />
+      <node id="733024125197880679" at="18,128,19,128" concept="1" />
+      <node id="733024125197880679" at="17,0,21,0" concept="0" trace="PredictionListImpl#()V" />
+      <scope id="733024125197880679" at="17,31,19,128" />
+      <scope id="733024125197880679" at="17,0,21,0" />
+      <unit id="733024125197880679" at="11,0,22,0" name="WeatherPrediction.sandbox.PredictionListImpl" />
+    </file>
+  </root>
+</debug-info>
+
